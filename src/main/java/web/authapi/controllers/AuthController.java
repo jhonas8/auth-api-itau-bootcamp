@@ -29,7 +29,6 @@ import web.authapi.security.services.UserDetailsImpl;
 import javax.validation.Valid;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
 
